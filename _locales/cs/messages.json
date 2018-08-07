@@ -1,0 +1,17 @@
+﻿{
+   "desc": {
+      "message": "Allows you to take a screenshot and save the moment of Youtube video at any second"
+   },
+   "name": {
+      "message": "Save YouTube moment"
+   },
+   "shortname": {
+      "message": "YouTube moment"
+   },
+   "title": {
+      "message": "Save moment"
+   },
+   "share_text": {
+      "message": "Like the extension? Want more cool and free apps? Please share with friends and give us 5 star rating in the Web Store. Thank you!"
+   }
+}
